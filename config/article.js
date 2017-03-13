@@ -4,8 +4,8 @@ export default () => ({ // eslint-disable-line
   id: 'e197eab8-fad2-11e6-bd4e-68d53499ed71',
 
   // canonical URL of the published page
-  // https://ig.ft.com/sites/trump-first-address get filled in by the ./configure script
-  url: 'https://ig.ft.com/sites/trump-first-address',
+  // https://ig.ft.com/sites/federal-reserve-march-meeting-2017 get filled in by the ./configure script
+  url: 'https://ig.ft.com/sites/federal-reserve-march-meeting-2017',
 
   // To set an exact publish date do this:
   //       new Date('2016-05-17T17:11:22Z')
@@ -14,11 +14,11 @@ export default () => ({ // eslint-disable-line
   headline: 'Donald Trump’s address to Congress — annotated',
 
   // summary === standfirst (Summary is what the content API calls it)
-  summary: 'The full transcript with FT correspondents’ notes and comments',
+  summary: 'The full Fed statement with FT correspondents’ notes and comments',
 
   topic: {
-    name: 'Donald Trump',
-    url: 'https://www.ft.com/donald-trump',
+    name: 'Federal Reserve',
+    url: 'https://www.ft.com/topics/organisations/Federal_Reserve',
   },
 
   relatedArticle: {
@@ -66,20 +66,18 @@ export default () => ({ // eslint-disable-line
         optional social meta data?
   */
   // General social
-  socialImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F24135812-f418-11e6-95ee-f14e55513608?source=ig&fit=scale-down&width=1200',
+  socialImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.prod.s3.amazonaws.com%2F42bb35c0-0834-11e7-97d1-5e720a26771b?source=ig&fit=scale-down&width=1200',
   socialHeadline: '',
   socialSummary: '',
 
   // TWITTER
-  // twitterImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig.ft.com%2Fsites%2Ftrump-first-address%2Fimages%2FTRUMP_SPEECH_TWITTER.jpg?source=ig&width=1200',
-twitterImage: 'https://ig.ft.com/sites/trump-first-address/images/TRUMP_SPEECH_TWITTER.jpg',
+twitterImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig.ft.com%2Fsites%2Ffederal-reserve-march-meeting-2017%2Fimages%2Fyellen_ann_twits.jpg?source=ig&width=1800',
 twitterCreator: '@ft',
   // tweetText:  '',
 //twitterHeadline:  'Trump\'s #Inauguration speech transcript, annotated',
 
   // FACEBOOK
-  // facebookImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig.ft.com%2Fsites%2Ftrump-first-address%2Fimages%2FTRUMP_SPEECH_FACE.jpg?source=ig&width=1200',
-  facebookImage: 'https://ig.ft.com/sites/trump-first-address/images/TRUMP_SPEECH_FACE.jpg',
+  facebookImage: 'https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig.ft.com%2Fsites%2Ffederal-reserve-march-meeting-2017%2Fimages%2Fyellen_ann_face.jpg?source=ig&width=1800',
   // facebookHeadline: '',
 
   tracking: {
