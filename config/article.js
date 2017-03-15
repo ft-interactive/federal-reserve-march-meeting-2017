@@ -1,7 +1,7 @@
 export default () => ({ // eslint-disable-line
 
   // link file UUID
-  id: 'e197eab8-fad2-11e6-bd4e-68d53499ed71',
+  id: '3b9a74bc-0835-11e7-97d1-5e720a26771b',
 
   // canonical URL of the published page
   // https://ig.ft.com/sites/federal-reserve-march-meeting-2017 get filled in by the ./configure script
