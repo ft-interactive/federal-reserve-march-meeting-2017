@@ -1,6 +1,6 @@
-# [trump-first-address](https://ig.ft.com/sites/trump-first-address)
+# federal-reserve-march-meeting-2017
 
-Donald Trump's address to Congress, [annotated](https://ig.ft.com/sites/trump-first-address), February 28, 2017.
+March 2017 Fed statement – [annotated](https://ig.ft.com/sites/federal-reserve-march-meeting-2017/), March 15, 2017. Based on [trump-first-address](https://github.com/ft-interactive/trump-first-address).
 
 [![Build Status][circle-image]][circle-url] [![Dependency Status][devdeps-image]][devdeps-url]
 
